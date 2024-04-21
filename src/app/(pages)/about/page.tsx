@@ -5,7 +5,38 @@ function About() {
   return (
     <div>
       <h1>About</h1>
-      <Image src={img} alt="" className={cn["img"]} />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
+      <Image src={img} alt="" className={cn["img"]} loading="lazy" />
     </div>
   );
 }
