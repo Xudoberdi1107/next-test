@@ -12,7 +12,6 @@ import img10 from "../../../../public/Adobe10.jpeg";
 import img11 from "../../../../public/Adobe11.jpeg";
 import img12 from "../../../../public/Adobe12.jpeg";
 import img13 from "../../../../public/Adobe13.jpeg";
-import img14 from "../../../../public/Adobe14.jpeg";
 import cn from "./style.module.css";
 function About() {
   return (
@@ -43,8 +42,6 @@ function About() {
       <Image src={img12} alt="" className={cn["img"]} loading="lazy" />
       <div className={cn["box"]}></div>
       <Image src={img13} alt="" className={cn["img"]} loading="lazy" />
-      <div className={cn["box"]}></div>
-      <Image src={img14} alt="" className={cn["img"]} loading="lazy" />
       <div className={cn["box"]}></div>
     </div>
   );
