@@ -19,19 +19,33 @@ function About() {
     <div>
       <h1>About</h1>
       <Image src={img1} alt="" className={cn["img"]} loading="lazy" />
+      <div className={cn["box"]}></div>
       <Image src={img2} alt="" className={cn["img"]} loading="lazy" />
+      <div className={cn["box"]}></div>
       <Image src={img3} alt="" className={cn["img"]} loading="lazy" />
+      <div className={cn["box"]}></div>
       <Image src={img4} alt="" className={cn["img"]} loading="lazy" />
+      <div className={cn["box"]}></div>
       <Image src={img5} alt="" className={cn["img"]} loading="lazy" />
+      <div className={cn["box"]}></div>
       <Image src={img6} alt="" className={cn["img"]} loading="lazy" />
+      <div className={cn["box"]}></div>
       <Image src={img7} alt="" className={cn["img"]} loading="lazy" />
+      <div className={cn["box"]}></div>
       <Image src={img8} alt="" className={cn["img"]} loading="lazy" />
+      <div className={cn["box"]}></div>
       <Image src={img9} alt="" className={cn["img"]} loading="lazy" />
+      <div className={cn["box"]}></div>
       <Image src={img10} alt="" className={cn["img"]} loading="lazy" />
+      <div className={cn["box"]}></div>
       <Image src={img11} alt="" className={cn["img"]} loading="lazy" />
+      <div className={cn["box"]}></div>
       <Image src={img12} alt="" className={cn["img"]} loading="lazy" />
+      <div className={cn["box"]}></div>
       <Image src={img13} alt="" className={cn["img"]} loading="lazy" />
+      <div className={cn["box"]}></div>
       <Image src={img14} alt="" className={cn["img"]} loading="lazy" />
+      <div className={cn["box"]}></div>
     </div>
   );
 }
